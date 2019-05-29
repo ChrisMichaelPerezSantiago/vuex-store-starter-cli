@@ -1,13 +1,17 @@
 {
   "name": "vuex-store-starter-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A CLI that automatically clone the vuex-store-starter template",
-  "main": "index.js",
-  "bin":{
+  "bin": {
     "vuex-store-starter-cli": "index.js"
   },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisMichaelPerezSantiago/vuex-store-starter-cli.git"
   },
   "keywords": [
     "vuejs",
