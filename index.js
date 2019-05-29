@@ -26,7 +26,7 @@ f('git', ['clone', URL, name])
   }).then(() => {
     console.log('Done! 🏁');
     console.log('cd', name);
-    console.log('npm run start');
+    console.log('npm run serve');
     console.log('For more information check the package.json')
   });
 
