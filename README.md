@@ -8,7 +8,7 @@ Install the CLI globally OR use npx:
 npm install -g vuex-store-starter-cli
 ```
 
-##Usage
+## Usage
 ```
 # with global install
 vuex-store-starter-cli repo-name
@@ -16,6 +16,8 @@ vuex-store-starter-cli repo-name
 vuex-store-starter-cli repo-name
 ```
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ChrisMichaelPerezSantiago/vuex-store-starter-cli/blob/master/LICENSE) file for details.
 
 
 ## Where to get Help
